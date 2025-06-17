@@ -1,6 +1,4 @@
-Here's a refined and professional version of your `README.md` for **SUNDOWN**, formatted for clarity and completeness, including a placeholder for the test framework and optional sections like license and contribution if you'd like to add them later:
 
----
 
 # 🌇 SUNDOWN
 
@@ -96,10 +94,5 @@ npm test
 
 ---
 
-## 🪪 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-If you'd like to add badges, screenshots, or contribution guidelines, I can help include those as well. Would you like a version of this README with those enhancements?
